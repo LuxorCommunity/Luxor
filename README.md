@@ -3,7 +3,7 @@
 Luxor (LXR) is a community-driven Solana project built around **deflationary staking mechanics** and **full user control** — transparent, verified, and long-term focused.
 
 ## Key Links
-- **Official Panel / Website:** https://lxrpanel.lxr-network.com/](https://stake.lxr-network.com/
+- **Official Panel / Website:** https://stake.lxr-network.com/
 - **Twitter / X:** https://x.com/LuxorFoundation
 - **Telegram Community:** https://web.telegram.org/k/#@luxorportal1
 - **Logo (PNG):** https://github.com/LuxorCommunity/Luxor-token/blob/main/Logo.png
