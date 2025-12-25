@@ -1,85 +1,81 @@
-# Luxor Token ($LXR)
+# Luxor Token (LXR)
 
-**Luxor (LXR)** is a community-driven SPL token on the Solana blockchain, built with long-term vision and transparency. The project is open, trust-based, and shaped by community input and engagement.
+Luxor (LXR) is a community-driven Solana project built around **deflationary staking mechanics** and **full user control** — transparent, verified, and long-term focused.
 
----
-
-## Key Facts
-
-- **Name:** Luxor  
-- **Symbol:** LXR  
-- **Blockchain:** Solana  
-- **Mint Authority:** Revoked (no account can mint tokens)  
-- **Max Supply:** 10,000,000 (fully minted)  
-- **Freeze Authority:** Revoked (no account can be frozen)
+## Key Links
+- **Official Panel / Website:** https://lxrpanel.lxr-network.com/
+- **Twitter / X:** (https://x.com/LuxorFoundation)
+- **Telegram Community:** https://web.telegram.org/k/#@luxorportal1
+- **Logo (PNG):** https://github.com/LuxorCommunity/Luxor-token/blob/main/Logo.png
+- **Token on Solana Explorer (Mint):** https://explorer.solana.com/address/EBHC7XpycnQhCd3zq8iWmSuhvpGVyM6krjb6pvgZ4zE
 
 ---
 
 ## Utilities & Benefits
 
-- **Access to exclusive Telegram community**  
-  Holders with 10+ LXR and wallet verification gain access to an invite-only group for contests, decisions, and project shaping.
+- **Staking Utility (Live)**
+  - Users can swap **SOL → LXR** via our official panel.
+  - As long as LXR is held, our staking system accumulates rewards in the background.
 
-- **Community Governance**  
-  Future on-chain voting for proposals and roadmap decisions.
+- **Epoch-Based Rewards**
+  - Rewards are collected over **8 Solana epochs**.
+  - After the cycle completes, rewards can be claimed.
 
-- **Mint-based Holder Rewards** *(planned)*  
-  Rewards for staking and network participation.
+- **Rewards Are NOT Auto-Restaked**
+  - This is intentional: you keep full flexibility.
+  - Rewards can be swapped to SOL or other tokens — or used to increase your position for future cycles.
 
-- **Referral Contests & Airdrops**  
-  Invite-based contests (e.g., 2 LXR per valid invite) to grow the community.
+- **Community Support & Incentives**
+  - We run initiatives to reward active community members and support organic growth.
+
+- **DAO / Governance (In Development)**
+  - We are working on a governance setup where **holders and especially stakers** will play a central role in shaping decisions.
+  - Final implementation details may change during development.
+
+---
+
+## How Staking Works (Simple Overview)
+
+1. You swap **SOL → LXR** on the official panel: https://lxrpanel.lxr-network.com/
+2. While LXR is held, staking rewards accumulate in the background
+3. Each staking cycle runs for **8 epochs**
+4. When the cycle ends, rewards become claimable
+5. Rewards can be used freely (swap, hold, or reinvest)
 
 ---
 
 ## Transparency First
 
-- No presale  
-- No VC allocation  
-- No hidden team wallets  
-- No token inflation – fully minted & fixed supply
+- No presale
+- No VC allocation
+- No hidden team wallets (public documentation where applicable)
+- Fixed supply (no token inflation)
 
 ---
 
 ## Team
 
-- **Community Manager:** Oversees the Telegram community and manages manual verifications.
-- **Founder-Led Project:** Driven by the belief in organic growth and true decentralization.
-
----
-
-## Links
-
-- [Twitter / X](https://twitter.com/LuxorToken)  
-- [Telegram Community](https://web.telegram.org/k/#@luxorportal)  
-- [Project Info & Updates (Notion)](https://possible-dormouse-20b.notion.site/Luxor-Token-LXR-Official-Info-1e69bcef4a1f80f3abefcbd45abfa2da)  
-- [Logo PNG](https://github.com/LuxorCommunity/Luxor-token/blob/main/Logo.png) 
-- [Token on Solana Explorer](https://explorer.solana.com/address/EBHC7XpycnQhCd3zq8iWmSuhvpGVyM6krjb6pvwgZ4zE)
-- [Request Access to Exclusive Telegram Group](https://tally.so/r/mDy9GR)
+- **Founder-led project**
+- **Community Manager**
+  - Oversees the Telegram community and manages manual verifications (where required).
 
 ---
 
 ## Roadmap (2025)
 
-- ✅ Launch & Mint Authority Revoked  
-- ✅ Initial Liquidity Added  
-- ✅ Verification Form Launched  
-- ✅ Exclusive Telegram Group Started  
-- 🔄 Meme Contest (Coming Soon)  
-- 🔄 Staking System (In Planning)  
-- 🔄 Governance Voting (Planned)  
-- 🔄 Listing on Jupiter Aggregator
+✅ Launch  
+✅ Initial Liquidity Added  
+✅ Community Infrastructure (X / Telegram / Documentation)  
+✅ Staking System Live (Epoch-based rewards)
+
+🟡 In Progress / Next
+- Website/panel upgrades (cycle progress, estimated payouts, time remaining)
+- Liquidity strengthening initiatives
+- DAO / Governance rollout (phased)
 
 ---
 
-## Contact
+## Disclaimer
 
-For questions or collaboration, DM on X or join the Telegram group.
-
-
- ### Updates & Announcements
-
-Find the latest developments here:  
-[Luxor Notion Page – News & Updates](https://possible-dormouse-20b.notion.site/Luxor-Token-LXR-Official-Info-1e69bcef4a1f80f3abefcbd45abfa2da)
-
-
-
+LXR is a community-driven project. Nothing in this repository or our communications constitutes financial advice.
+Always do your own research (DYOR).
