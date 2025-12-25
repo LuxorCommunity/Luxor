@@ -4,7 +4,7 @@ Luxor (LXR) is a community-driven Solana project built around **deflationary sta
 
 ## Key Links
 - **Official Panel / Website:** https://lxrpanel.lxr-network.com/
-- **Twitter / X:** (https://x.com/LuxorFoundation)
+- **Twitter / X:** https://x.com/LuxorFoundation
 - **Telegram Community:** https://web.telegram.org/k/#@luxorportal1
 - **Logo (PNG):** https://github.com/LuxorCommunity/Luxor-token/blob/main/Logo.png
 - **Token on Solana Explorer (Mint):** https://explorer.solana.com/address/EBHC7XpycnQhCd3zq8iWmSuhvpGVyM6krjb6pvgZ4zE
