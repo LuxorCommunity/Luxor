@@ -1,4 +1,4 @@
-# Luxor Token (LXR)
+# Luxor (LXR)
 
 Luxor (LXR) is a community-driven Solana project built around **deflationary staking mechanics** and **full user control** — transparent, verified, and long-term focused.
 
